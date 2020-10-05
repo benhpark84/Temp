@@ -1,2 +1,4 @@
-Name	Yield	Cost($/dt)
+Name			Yield			Cost($/dt)
+biosorghum		13.00			24.15
+switchgrass		9.00			13.85
 
