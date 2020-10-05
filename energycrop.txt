@@ -1,4 +1,4 @@
-County			Name			Yield			Cost($/dt)
-brazos			biosorghum		13.00			24.15
-brazos			switchgrass		9.00			13.85
+State_FIPS    County			Name			Yield			Cost($/dt)
+52105         brazos			biosorghum		13.00			24.15
+52105         brazos			switchgrass		9.00			13.85
 
