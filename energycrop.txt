@@ -1,4 +1,4 @@
-Name			Yield			Cost($/dt)
-biosorghum		13.00			24.15
-switchgrass		9.00			13.85
+County			Name			Yield			Cost($/dt)
+brazos			biosorghum		13.00			24.15
+brazos			switchgrass		9.00			13.85
 
